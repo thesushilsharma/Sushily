@@ -1,5 +1,5 @@
 # pal
-The chatbot should allow users to enter text and receive responses from an AI-powered backend.
+"Create your own customized AI assistant to cater to your unique requirements." The chatbot should allow users to enter text and receive responses from an AI-powered backend. 
 
 ## Features
 
@@ -9,7 +9,7 @@ The chatbot should allow users to enter text and receive responses from an AI-po
 
 ## Setup Instructions
 - Clone the repository.
-- Install dependencies: ``npm install``
+- Install dependencies: ```npm install```
 - Set up your chosen AI API (Gemini, OpenAI)
 - Run the application: npm run dev 
 
