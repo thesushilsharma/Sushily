@@ -1,7 +1,17 @@
 # pal
-Chatbot Interface :The chatbot should allow users to enter text and receive responses from an AI-powered backend.
+The chatbot should allow users to enter text and receive responses from an AI-powered backend.
 
+## Features
 
+- User Input Text Field
+- Chat History Display
+- AI-Powered Chat Responses
+
+## Setup Instructions
+- Clone the repository.
+- Install dependencies: ``npm install``
+- Set up your chosen AI API (Gemini, OpenAI)
+- Run the application: npm run dev 
 
 ## Deployment:
 
