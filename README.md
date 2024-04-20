@@ -2,15 +2,21 @@
 "Create your own customized AI assistant to cater to your unique requirements." The chatbot should allow users to enter text and receive responses from an AI-powered backend. 
 
 ## Features
-
 - User Input Text Field
 - Chat History Display
 - AI-Powered Chat Responses
 
+## Prerequisites
+- VS Code or any Code editor
+- Node.js installed on your machine
+- npm package manager
+- To make API requests, you can use either the Postman or Thunder client extension in VS Code.
+- Set up your chosen AI API (Gemini, OpenAI)
+
 ## Setup Instructions
 - Clone the repository.
 - Install dependencies: ```npm install```
-- Set up your chosen AI API (Gemini, OpenAI)
+- add API to environment variable file
 - Run the application: npm run dev 
 
 ## Deployment:
