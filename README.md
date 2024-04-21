@@ -13,6 +13,10 @@
 - To make API requests, you can use either the Postman or Thunder client extension in VS Code.
 - Set up your chosen AI API (Gemini, OpenAI)
 
+## Techstack
+- Next.js
+- Tailwind CSS
+
 ## Setup Instructions
 - Clone the repository.
 - Install dependencies: ```npm install```
