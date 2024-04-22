@@ -12,6 +12,7 @@
 - npm package manager
 - To make API requests, you can use either the Postman or Thunder client extension in VS Code.
 - Set up your chosen AI API (Gemini, OpenAI)
+- Pre-defined Responses for FAQs (custom knowledge bases)
 
 ## Techstack
 - Next.js
