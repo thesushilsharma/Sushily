@@ -22,6 +22,8 @@
 - Clone the repository.
 - Install dependencies: ```npm install```
 - add API to environment variable file
+  - Gemini API Key 
+  - Custom Prompt
 - Run the application: npm run dev 
 
 ## Deployment:
