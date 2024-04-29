@@ -1,4 +1,4 @@
-# pal
+# Sushily
 
 "Create your own customized AI assistant to cater to your unique requirements." The chatbot should allow users to enter text and receive responses from an AI-powered backend.
 
