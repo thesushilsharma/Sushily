@@ -1,12 +1,15 @@
 # pal
-"Create your own customized AI assistant to cater to your unique requirements." The chatbot should allow users to enter text and receive responses from an AI-powered backend. 
+
+"Create your own customized AI assistant to cater to your unique requirements." The chatbot should allow users to enter text and receive responses from an AI-powered backend.
 
 ## Features
+
 - User Input Text Field
 - Chat History Display
 - AI-Powered Chat Responses
 
 ## Prerequisites
+
 - VS Code or any Code editor
 - Node.js installed on your machine
 - npm package manager
@@ -15,10 +18,12 @@
 - Pre-defined Responses for FAQs (custom knowledge bases)
 
 ## Techstack
+
 - Next.js
 - Tailwind CSS
 
 ## Setup Instructions
+
 - Clone the repository.
 - Install dependencies: ```npm install```
 - add API to environment variable file
@@ -26,7 +31,7 @@
   - Custom Prompt
 - Run the application: npm run dev 
 
-## Deployment:
+## Deployment
 
 You can deploy this API to a production server using a platform like Vercel, Netlify or any of your choice.
 
@@ -36,4 +41,4 @@ Feel free to fork the repository and submit pull requests with your improvements
 
 ## License
 
-This project is licensed under the MIT License.  See the [LICENSE](https://github.com/thesushilsharma/pal/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.  See the [LICENSE](LICENSE) file for details.
